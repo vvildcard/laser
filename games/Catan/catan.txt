@@ -1,0 +1,21 @@
+Tiles
+ 19 bases
+ 4 grain
+ 4 wood
+ 4 wool
+ 3 ore
+ 3 brick
+ 1 desert
+Longest Road
+Largest Army
+	Ports (9)
+	 1 for each resource
+	 4 generic
+Tokens
+ 1x 2, 12
+ 2x 3-11
+ * 2, 12
+ ** 3, 11
+ *** 4, 10
+ **** 5, 9
+ ***** 6, 8
