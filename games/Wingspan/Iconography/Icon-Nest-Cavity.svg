@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.4mm"
+   height="25.4mm"
+   viewBox="0 0 25.399999 25.399999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Icon_Nest_Cavity.svg"
+   inkscape:export-filename="C:\Users\Ryan\Icon_Nest_Cavity.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="15.541941"
+     inkscape:cy="37.141289"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-67.953474,-72.617789)">
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17657515;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path847"
+       cx="80.653481"
+       cy="85.317787"
+       r="12.324328" />
+    <path
+       style="opacity:1;fill:#71635a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17657517;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 80.653185,72.617789 A 12.70007,12.70007 0 0 0 67.953474,85.317498 12.70007,12.70007 0 0 0 80.653185,98.017789 12.70007,12.70007 0 0 0 93.353474,85.317498 12.70007,12.70007 0 0 0 80.653185,72.617789 Z m 0,0.676509 c 1.861386,0 3.624115,0.422434 5.197052,1.177503 -0.173336,0.862069 -1.436027,12.370349 0.524819,21.423459 -1.701444,0.922301 -3.650554,1.446017 -5.721871,1.446017 -2.053138,0 -3.985733,-0.514346 -5.676542,-1.421605 2.394912,-8.580127 0.368189,-19.33559 0.04301,-21.227016 1.680549,-0.892976 3.59778,-1.398358 5.633534,-1.398358 z m 0.07555,8.078043 a 2.7053401,3.682269 0 0 0 -2.705465,3.682457 2.7053401,3.682269 0 0 0 2.705465,3.682457 2.7053401,3.682269 0 0 0 2.704887,-3.682457 2.7053401,3.682269 0 0 0 -2.704887,-3.682457 z"
+       id="path838"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

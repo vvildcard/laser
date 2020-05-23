@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.4mm"
+   height="25.4mm"
+   viewBox="0 0 25.4 25.4"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Icon_Food_None.svg"
+   inkscape:export-filename="C:\Users\Ryan\Icon_Food_None.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="39.758664"
+     inkscape:cy="31.57559"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.42024,-56.909704)">
+    <path
+       style="opacity:1;fill:#73635b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21979731;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 62.120603,56.909704 A 12.699846,12.699844 0 0 0 49.42024,69.609344 12.699846,12.699844 0 0 0 62.120603,82.309704 12.699846,12.699844 0 0 0 74.82024,69.609344 12.699846,12.699844 0 0 0 62.120603,56.909704 Z m 0,3.704121 a 8.9957241,8.9957231 0 0 1 8.995515,8.995519 8.9957241,8.9957231 0 0 1 -1.866529,5.46792 L 56.697535,62.441287 a 8.9957241,8.9957231 0 0 1 5.423068,-1.827462 z m -7.788787,4.509335 12.103507,12.369017 a 8.9957241,8.9957231 0 0 1 -4.31472,1.113406 8.9957241,8.9957231 0 0 1 -8.996242,-8.996239 8.9957241,8.9957231 0 0 1 1.207455,-4.486184 z"
+       id="path826"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Ryan\Icon_Food_None.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

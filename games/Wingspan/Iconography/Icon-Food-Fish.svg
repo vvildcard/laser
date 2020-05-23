@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.39999mm"
+   height="12.43662mm"
+   viewBox="0 0 25.39999 12.43662"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Icon_Fish.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="13.749538"
+     inkscape:cy="-85.760645"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Fish"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.409418,-13.064919)">
+    <path
+       id="path841"
+       style="opacity:1;fill:#19375f;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.00568914;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 34.780102,19.40844 c -10e-7,0.564114 -0.457305,1.021419 -1.021419,1.02142 -0.564115,10e-7 -1.021421,-0.457305 -1.021422,-1.02142 1e-6,-0.564115 0.457307,-1.021421 1.021422,-1.02142 0.564114,1e-6 1.021418,0.457306 1.021419,1.02142 z m 3.026473,0.90214 c -0.08388,0.12582 -3.951359,-13.9964901 -18.155179,-3.1323 -1.540808,-0.004 -3.416133,-0.79726 -5.078584,-1.30766 -0.275513,-0.0409 -2.441397,-0.92401 -0.03041,3.19312 0.06298,0.9246 -2.81618,1.92971 -1.976694,3.07148 0.839485,1.14178 6.024748,-1.26166 6.629529,-1.45971 0.422608,0.67406 1.715118,2.323487 3.724049,3.41063 2.937176,1.589467 7.323059,2.32313 11.862087,-0.45076 1.51564,-0.926238 2.124678,-1.92152 3.025202,-3.3248 z"
+       inkscape:connector-curvature="0"
+       inkscape:label="Fish"
+       sodipodi:nodetypes="cscscccccccssc" />
+  </g>
+</svg>

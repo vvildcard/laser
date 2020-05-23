@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.424999mm"
+   height="25.424999mm"
+   viewBox="0 0 25.424999 25.425"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Coin_Grain.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="30.000292"
+     inkscape:cy="51.849482"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Grain"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.957277,-21.09252)">
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fc0000;stroke-width:0.025;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path816"
+       cx="90.669777"
+       cy="33.805019"
+       r="12.7"
+       inkscape:label="Cut" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:0.001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90.343082,24.281116 c 0.631522,0.654225 1.617862,1.773497 1.68552,2.215434 0.290332,-0.09618 0.497089,-0.612176 0.869683,-0.530467 -0.246795,1.760415 0.02133,1.667818 -0.02795,2.496341 0.165245,-0.135584 0.342859,-0.325922 0.589328,-0.17391 -0.575306,1.549946 0.434466,2.251771 0.114027,3.144364 0.147753,-0.03384 0.353175,-0.430364 0.63951,-0.290919 -0.427806,3.028778 0.135405,3.05238 -0.344006,3.91157 0.184114,-0.124178 0.258894,-0.389994 0.463523,-0.440419 0.04371,3.196158 -0.644722,6.502429 -2.591572,6.817299 0.03221,0.287777 -0.165832,0.400795 -0.270978,0.54412 -0.09179,0.404127 0.124952,0.912352 -0.06192,1.235849 -0.321676,0.183113 -0.732562,0.119643 -1.046019,0.04333 -0.172861,-0.378311 0.278138,-0.372452 0.172574,-1.322289 -0.155988,-0.229816 -0.331076,-0.213333 -0.276182,-0.653657 -2.431976,-1.19683 -1.549322,-2.402238 -3.253716,-4.698718 0.01802,-0.218496 0.821712,0.250609 1.082762,0.204683 -0.804537,-1.141304 0.394668,-1.447433 -0.892033,-3.646153 0.514673,-0.227149 0.763305,0.237669 1.197431,0.243355 -0.485098,-1.49787 -0.605806,-2.810762 -0.301534,-3.993039 0.238265,0.02501 0.256709,0.213553 0.432849,0.34593 -0.135039,-0.50941 0.559798,-2.055414 0.428714,-3.247991 0.26327,0.08147 0.424724,0.46808 0.602116,0.498331 0.121027,-0.979342 0.56179,-1.298753 0.787863,-2.703057 z"
+       id="path937"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc"
+       inkscape:label="Grain" />
+  </g>
+</svg>

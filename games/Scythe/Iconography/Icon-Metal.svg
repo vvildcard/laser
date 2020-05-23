@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.400002mm"
+   height="15.012254mm"
+   viewBox="0 0 25.400001 15.012254"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Icon_Metal.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="37.30318"
+     inkscape:cy="0.78764402"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Icon_Metal"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-112.22329,-55.218833)">
+    <path
+       style="fill:#000000;stroke-width:0.23414244"
+       d="M 120.54932,67.682381 C 111.50976,63.911104 112.23727,64.278793 112.23727,63.481437 112.23727,63.069083 112.80132,61.810933 113.64675,60.33752 L 115.05623,57.881074 118.87925,56.549953 122.70226,55.218833 128.41592,57.147951 C 131.55844,58.208966 134.26301,59.17968 134.4261,59.305093 135.01466,59.757713 137.74352,65.213744 137.61917,65.68926 137.53787,66.00028 137.01464,66.340931 136.04756,66.71254 135.25023,67.018917 132.98729,67.937926 131.0188,68.754781 129.05032,69.571635 127.25913,70.23596 127.03838,70.23106 126.81764,70.22616 123.89757,69.079253 120.54932,67.682381 Z M 126.7541,66.013459 V 63.191802 L 125.93127,62.848003 C 125.47872,62.658914 123.0376,61.763857 120.50658,60.858988 116.75197,59.516683 115.85035,59.26964 115.60949,59.517203 115.15459,59.984757 113.33839,63.458301 113.47658,63.596483 113.71344,63.833348 125.93972,68.788563 126.34435,68.811693 126.71321,68.832783 126.7541,68.553579 126.7541,66.013459 Z M 129.73942,60.831142 C 131.31695,60.288029 132.60767,59.767352 132.60767,59.674082 132.60767,59.580812 130.316,58.743298 127.51506,57.812939 L 122.42246,56.121377 119.85792,57.059913 C 118.44741,57.576109 117.26042,58.097297 117.22015,58.218109 117.16805,58.374564 125.34246,61.436574 126.7541,61.789362 126.8185,61.805452 128.16188,61.374255 129.73942,60.831142 Z"
+       id="path881"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

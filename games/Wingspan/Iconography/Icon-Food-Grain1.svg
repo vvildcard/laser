@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.7794085mm"
+   height="25.410706mm"
+   viewBox="0 0 9.7794085 25.410706"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Icon_Grain.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-99.424002"
+     inkscape:cy="50.559492"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Grain"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.094629,-20.584048)">
+    <path
+       style="display:inline;fill:#da852c;fill-opacity:1;stroke:#000000;stroke-width:0.0081146;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 89.548869,20.695618 c 0.841872,0.872137 2.156747,2.364222 2.246941,2.953361 0.387036,-0.128212 0.662661,-0.816082 1.15936,-0.707158 -0.328998,2.346782 0.02844,2.223343 -0.03726,3.327834 0.220285,-0.180745 0.45706,-0.434481 0.785623,-0.231837 -0.766931,2.06621 0.57918,3.001802 0.152008,4.191704 0.196968,-0.04511 0.470812,-0.573712 0.852521,-0.387819 -0.570301,4.037617 0.180507,4.06908 -0.458589,5.214453 0.245439,-0.165539 0.345128,-0.519895 0.617916,-0.587115 0.05827,4.260749 -0.859469,8.668288 -3.454786,9.088037 0.04294,0.383631 -0.221068,0.534293 -0.361236,0.725357 -0.122364,0.538736 0.166572,1.216243 -0.08254,1.647492 -0.428821,0.244105 -0.976566,0.159494 -1.394431,0.05776 -0.230439,-0.504321 0.370781,-0.49651 0.230055,-1.762724 -0.207945,-0.306363 -0.441352,-0.28439 -0.368174,-0.87138 -3.24203,-1.595475 -2.065377,-3.202386 -4.337479,-6.263788 0.02402,-0.291274 1.095412,0.334082 1.443414,0.272859 -1.072516,-1.521454 0.526126,-1.92955 -1.189156,-4.86063 0.686103,-0.302809 1.01755,0.316833 1.596277,0.324412 -0.646676,-1.996787 -0.80759,-3.746984 -0.40197,-5.323059 0.317628,0.03334 0.342215,0.284684 0.577024,0.461154 -0.180018,-0.679086 0.746258,-2.740041 0.571512,-4.329847 0.350962,0.108604 0.566193,0.62399 0.802672,0.664317 0.161339,-1.305545 0.748914,-1.731347 1.050288,-3.603404 z"
+       id="path937"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc"
+       inkscape:label="Grain" />
+  </g>
+</svg>

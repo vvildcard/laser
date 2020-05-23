@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.4254mm"
+   height="25.4254mm"
+   viewBox="0 0 25.4254 25.4254"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Coin_Worm.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="-4.5837461"
+     inkscape:cy="68.691935"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Worm"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.4106465,-33.326645)">
+    <path
+       id="path910"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.0254;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 29.718251,44.845956 c -0.191468,-0.03431 -0.308652,-0.273799 -0.261746,-0.53491 0.0469,-0.261115 0.240145,-0.444988 0.431617,-0.410697 0.191479,0.0343 0.30868,0.273784 0.261773,0.534908 -0.04695,0.261141 -0.240245,0.44498 -0.431692,0.41063 z m -2.747149,-5.69261 c -0.153257,-0.171304 -0.143891,-0.429705 0.02091,-0.577141 0.1648,-0.147427 0.422623,-0.128072 0.575869,0.04324 0.153256,0.171303 0.143889,0.429701 -0.02091,0.577137 -0.164802,0.147429 -0.422623,0.128074 -0.57587,-0.04323 z m -0.09054,1.315996 c 1.17907,0.275733 2.056029,1.642572 1.6199,2.867829 0.240973,0.442512 0.718109,0.523513 1.247949,0.698457 0.201156,0.06641 0.157521,0.290514 -0.03271,0.383728 -0.41306,0.202265 -1.049955,-0.350921 -1.473466,-0.518189 -0.998748,1.373207 -2.270545,1.22478 -3.03251,2.218886 -1.327467,1.731922 -0.535617,4.402614 -2.359678,6.105792 -1.82406,1.703179 -5.557874,1.747072 -7.923199,0.558901 -1.138896,-0.572096 -1.337548,-2.993993 0.787204,-2.723138 1.057577,0.134814 2.980063,1.494115 4.491556,-0.0233 1.511488,-1.517421 0.617985,-3.431068 1.389094,-5.31107 0.779745,-1.901057 2.125895,-3.442983 4.85576,-4.270369 -0.07403,-0.601578 0.505145,-1.158564 0.63829,-1.580464 0.133969,-0.06377 0.145032,0.09033 0.237961,0.205939 0.240846,0.300019 -0.548469,0.484745 -0.44606,1.387002 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccczcczsccccc"
+       inkscape:label="Worm" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.0254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path816"
+       cx="22.123346"
+       cy="46.039345"
+       r="12.7"
+       inkscape:label="Cut" />
+  </g>
+</svg>

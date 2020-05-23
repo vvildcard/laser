@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.400005mm"
+   height="25.4mm"
+   viewBox="0 0 25.400005 25.4"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Icon_Habitat_Greasslands.svg"
+   inkscape:export-filename="C:\Users\Ryan\Icon_Habitat_Grasslands.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="9.9496038"
+     inkscape:cy="31.872456"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Icon_Habitat_Grasslands"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-102.88419,-108.11223)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26922548;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect826-0"
+       width="17.041689"
+       height="17.041689"
+       x="158.63667"
+       y="-4.8240619"
+       ry="0.7824856"
+       transform="rotate(45)"
+       inkscape:label="White" />
+    <path
+       style="opacity:1;fill:#f0ad17;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29156455;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 115.58452,108.11223 c -0.21662,0 -0.43321,0.083 -0.59919,0.24901 l -11.85216,11.85214 c -0.33197,0.33197 -0.33197,0.86642 0,1.19838 l 11.85216,11.8515 c 0.33195,0.33196 0.86642,0.33196 1.19838,0 l 11.85151,-11.8515 c 0.33197,-0.33196 0.33197,-0.86641 0,-1.19838 l -11.85151,-11.85214 c -0.16598,-0.16598 -0.38257,-0.24901 -0.59919,-0.24901 z m -1.92856,5.76168 c 2.72723,2.40175 4.1519,7.63537 4.3078,15.62691 l -2.31634,2.31634 -1.00773,-1.00708 c 0.2616,-1.78033 0.54711,-3.36976 0.71592,-4.97314 0.34942,-3.31885 0.19889,-6.69886 -1.69965,-11.96303 z m 6.76552,3.19243 c 0.009,-6.6e-4 0.0168,0.001 0.0233,0.006 0.20684,0.1694 -2.15405,4.42865 -0.91954,10.86646 l -1.30991,1.30992 c -0.0728,-2.54386 -0.10328,-3.23783 -0.42346,-5.8395 0.75207,-3.40821 2.34284,-6.31878 2.62956,-6.34336 z m -10.95207,0.41114 c 0.4162,0.15715 4.99289,5.79606 5.60995,8.48462 -0.15936,1.56496 -0.39037,2.95256 -0.68998,4.57627 l -2.35785,-2.37925 c -0.26902,-5.90796 -2.71617,-10.4919 -2.58872,-10.6797 0.005,-0.007 0.0132,-0.007 0.0266,-0.002 z"
+       id="rect826"
+       inkscape:connector-curvature="0"
+       inkscape:label="Grasslands" />
+  </g>
+</svg>

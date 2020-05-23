@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.848076mm"
+   height="25.4mm"
+   viewBox="0 0 22.848076 25.4"
+   version="1.1"
+   id="svg7493"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Icon_Mech.svg">
+  <defs
+     id="defs7487" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-37.889286"
+     inkscape:cy="20.022484"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7490">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Icon_Mech"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-72.116551,-52.79901)">
+    <g
+       transform="matrix(1.3073727,0,0,1.3073727,866.95565,-707.7725)"
+       id="g5114"
+       style="opacity:0.9"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Kitty\text7407.png"
+       inkscape:label="Mech">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.10796452;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2284.2891,2198.7617 V 2233.0098 H -2280.9414 V 2246.0879 H -2277.125 V 2248.2891 H -2262.1602 V 2246.0879 H -2258.3438 V 2233.0098 H -2254.8145 V 2222.6328 H -2244.2285 V 2204.1582 H -2254.8145 V 2198.7617 Z"
+         transform="scale(0.26458333)"
+         id="path5102" />
+      <rect
+         y="583.18359"
+         x="-607.24072"
+         height="5.1074786"
+         width="2.361522"
+         id="rect5104"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88626552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88582218;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5106"
+         width="2.5811985"
+         height="4.6681256"
+         x="-593.07159"
+         y="584.28198" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4417173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5108"
+         width="3.7595346"
+         height="0.79693991"
+         x="-602.50299"
+         y="583.99908" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#000000;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -2293.4688,2236.5957 C -2303.2748,2236.5957 -2293.4688,2254.2852 -2293.4688,2254.2852 H -2291.125 V 2260.5977 H -2294.3555 L -2292.3008,2272.1914 H -2288.1914 V 2265.4414 H -2287.0156 V 2254.2852 H -2283.6621 V 2236.5957 Z"
+         transform="scale(0.26458333)"
+         id="path5110" />
+      <path
+         id="path5112"
+         d="M -594.14108,591.76594 C -591.54657,591.76594 -594.14108,596.44628 -594.14108,596.44628 H -594.76121 V 598.11647 H -593.90647 L -594.45011,601.18397 H -595.53739 V 599.39803 H -595.84849 V 596.44628 H -596.73577 V 591.76594 Z"
+         style="opacity:1;fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

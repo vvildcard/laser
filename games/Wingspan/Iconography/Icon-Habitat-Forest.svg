@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.399998mm"
+   height="25.399998mm"
+   viewBox="0 0 25.399998 25.399998"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Icon_Habitat_Forest.svg"
+   inkscape:export-filename="C:\Users\Ryan\Icon_Habitat_Forest.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="9.6381086"
+     inkscape:cy="71.36007"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-115.48867,-141.87908)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25995535;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect855"
+       width="17.181475"
+       height="17.181475"
+       x="191.32617"
+       y="10.039444"
+       ry="0.7555427"
+       transform="rotate(45)" />
+    <path
+       style="opacity:1;fill:#26563e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.58287507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 128.18867,141.87908 c -0.19312,0 -0.38617,0.0735 -0.53416,0.22147 l -11.94386,11.9441 c -0.29597,0.29598 -0.29597,0.77237 0,1.06834 l 11.94386,11.94411 c 0.29597,0.29597 0.77235,0.29597 1.06832,0 l 11.94387,-11.94411 c 0.29596,-0.29597 0.29596,-0.77236 0,-1.06834 l -11.94387,-11.9441 c -0.14799,-0.14799 -0.34103,-0.22147 -0.53416,-0.22147 z m -0.22873,5.51159 c 1.00948,-0.018 1.88936,0.6184 1.91715,1.93108 0.56899,0.0164 0.99876,0.56281 0.96122,1.47492 -1.18219,-0.55852 -2.74957,-0.68261 -2.92729,1.96545 -0.39037,0.57289 -0.9345,1.35112 -0.64126,2.75679 -1.53529,0.20865 -1.62879,-0.74754 -2.32901,0.0218 -3.72334,-0.29535 -4.32491,-3.44494 -2.22258,-5.08651 -0.50569,-2.99214 2.31097,-3.28949 3.4403,-2.32906 0.54332,-0.47717 1.19578,-0.72369 1.80147,-0.73448 z m 4.41209,2.91744 c 0.78975,0.0585 1.39051,0.72681 1.37308,1.51392 2.21712,0.39877 2.18401,3.31326 0.12825,3.84696 -0.43843,1.64364 -2.62674,1.41754 -3.24858,0.64059 -0.41537,-0.28013 -0.59126,0.91197 -1.94426,0.19238 -2.04936,-0.30736 -1.31865,-2.95078 -0.62009,-3.67572 -0.0137,-1.8707 1.06159,-2.72822 2.77788,-1.85901 0.51772,-0.50978 1.05987,-0.69425 1.53372,-0.65912 z m -6.90307,5.17377 c 0.24734,0.0153 0.57142,0.36588 1.45902,0.34179 0,0 0.0621,3.21442 0.28823,4.54639 0.0558,0.32835 0.44014,0.48673 0.45946,0.83365 -0.95102,0 -2.04444,0.0212 -2.99142,0.0212 0.048,-0.50236 0.35631,-0.67201 0.39533,-1.03661 0.14833,-1.3839 0.1494,-4.58341 0.1494,-4.58341 0.0834,-0.0956 0.15753,-0.12808 0.23998,-0.12297 z m 4.98526,1.11528 c 0.33454,0.0397 0.48612,0.2111 0.64852,0.39997 0.17088,-0.18441 0.35641,-0.10578 0.46276,-0.0152 0,0 -0.31086,2.65287 0,3.81587 0.0701,0.26206 0.39813,0.44724 0.40592,0.70474 -1.07958,0.0115 -1.31136,0.008 -2.37199,0 -0.0866,-0.25004 0.29924,-0.47795 0.36294,-0.74771 0.28319,-1.19946 0.043,-3.90115 0.043,-3.90115 0.11667,-0.14043 0.27193,-0.26197 0.44888,-0.25651 z"
+       id="rect844"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Ryan\Icon_Habitat_Forest.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

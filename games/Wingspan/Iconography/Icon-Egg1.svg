@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.361135mm"
+   height="25.4mm"
+   viewBox="0 0 16.361135 25.4"
+   version="1.1"
+   id="svg852"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Icon_Egg.svg">
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="9.7225172"
+     inkscape:cy="103.01501"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-140.18851,-225.25804)">
+    <path
+       id="path1410"
+       inkscape:connector-curvature="0"
+       d="m 145.69736,250.37332 c -2.49081,-0.69105 -4.41002,-2.58655 -5.1708,-5.10691 -0.50224,-1.66389 -0.43807,-5.14888 0.14739,-8.0038 0.81656,-3.98188 2.18098,-7.14005 4.12002,-9.53648 2.05617,-2.54119 4.37444,-3.15066 6.41317,-1.686 1.95188,1.40227 3.95196,5.22364 4.82952,9.22729 0.49227,2.24584 0.6791,7.00629 0.34271,8.73168 -0.54089,2.77415 -2.15509,4.91079 -4.53223,5.99908 -1.52898,0.69999 -4.35708,0.87251 -6.14978,0.37514 z"
+       style="fill:#9b9089;stroke-width:0.21777104" />
+  </g>
+</svg>

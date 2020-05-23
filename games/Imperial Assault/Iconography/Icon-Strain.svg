@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.776085mm"
+   height="21.680811mm"
+   viewBox="0 0 18.776086 21.680811"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Icon_Strain.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\Ryan\Google Drive\Games\Imperial Assault\Iconography\Icon_Strain.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2190">
+      <stop
+         style="stop-color:#31406a;stop-opacity:1"
+         offset="0"
+         id="stop2186" />
+      <stop
+         id="stop2198"
+         offset="0.86592937"
+         style="stop-color:#5f77ae;stop-opacity:1" />
+      <stop
+         style="stop-color:#647db4;stop-opacity:0.432"
+         offset="1"
+         id="stop2188" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1511"
+       x="-0.11635453"
+       width="1.2327091"
+       y="-0.10076475"
+       height="1.2015295">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.65532941"
+         id="feGaussianBlur1513" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2190"
+       id="linearGradient2194"
+       x1="96.258514"
+       y1="126.47394"
+       x2="85.51931"
+       y2="108.66711"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0008211,0,0,1.0008211,-0.06701647,-0.10587751)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2308"
+       x="-0.16806778"
+       width="1.3361356"
+       y="-0.14554913"
+       height="1.2910984">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.96043867"
+         id="feGaussianBlur2310" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-49.529691"
+     inkscape:cy="48.514197"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Icon_Strain"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-81.759255,-107.27247)">
+    <path
+       style="opacity:1;fill:url(#linearGradient2194);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29759848;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 91.147294,107.27247 -9.388039,5.42034 v 10.84014 l 9.388039,5.42033 9.388046,-5.42033 v -10.84014 z m 5.21e-4,3.1482 6.661066,3.84598 v 7.69246 l -6.661078,3.84598 -6.661575,-3.84598 v -7.69246 z"
+       id="path842"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:none;opacity:1;fill:#fffff7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21424699;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1511)"
+       d="m 97.89836,114.21954 -6.758613,-3.90199 -6.758614,3.90199 v 7.80457 l 6.758614,3.90198 6.758613,-3.90198 z"
+       id="path861"
+       inkscape:connector-curvature="0"
+       inkscape:label="white blur"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="blue blur"
+       inkscape:connector-curvature="0"
+       id="path859"
+       d="m 97.997256,114.16245 -6.857509,-3.9591 -6.85751,3.9591 v 7.91876 l 6.85751,3.95908 6.857509,-3.95908 z"
+       style="display:inline;opacity:1;fill:#3264c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21738195;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter2308)"
+       transform="matrix(1.0008211,0,0,1.0008211,-0.06701647,-0.10587751)" />
+    <path
+       style="display:inline;opacity:1;fill:#365da9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2144229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 97.911723,114.20744 -6.764162,-3.90519 -6.764163,3.90519 v 7.81098 l 6.764163,3.90518 6.764162,-3.90518 z"
+       id="path848"
+       inkscape:connector-curvature="0"
+       inkscape:label="blue inner"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:label="white"
+       inkscape:connector-curvature="0"
+       id="path857"
+       d="m 91.147561,110.30225 -6.764163,3.90519 v 3.25381 l 2.095392,-0.51537 1.682728,0.73272 2.524091,-5.67285 1.547352,6.40554 0.841365,-1.60139 1.520035,0.95003 h 3.317362 v -3.55249 z m -1.248688,7.32171 -0.705985,1.8187 -2.578717,-1.19407 -2.230773,0.54271 v 3.22712 l 6.764163,3.90518 6.764162,-3.90518 V 119.334 h -3.236017 l -1.14003,-0.51539 -1.872728,5.51014 z"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2144229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+</svg>

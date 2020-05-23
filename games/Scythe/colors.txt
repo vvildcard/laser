@@ -1,0 +1,7 @@
+Crimea: FOB323
+Nordic: 006BA6
+Polania: FFFFFF
+Rusviet: CB2C3D
+Saxony: 25282A
+Albion: 67823A
+Togawa: 772583
